@@ -1,0 +1,23 @@
+.slot {
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+    height: 400px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    }
+
+.reel {
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 24px;
+    width: 50%;
+    height: 40px;
+    }
+
+button {
+    font-size: 20px;
+    margin-top: 20px;
+    }
+
